@@ -1,0 +1,1 @@
+[![Build Status](https://badgepassinc.visualstudio.com/AZ400/_apis/build/status%2Fchristian-eaton.gitapp?branchName=main)](https://badgepassinc.visualstudio.com/AZ400/_build/latest?definitionId=322&branchName=main)
